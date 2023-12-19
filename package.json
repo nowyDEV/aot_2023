@@ -1,0 +1,20 @@
+{
+  "name": "aot_2023",
+  "version": "1.0.0",
+  "description": "Advent of typescript 2023",
+  "main": "index.js",
+  "scripts": {
+    "test:code": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "nowyDEV",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "type-testing": "^0.2.0",
+    "typescript": "^5.3.3"
+  }
+}
